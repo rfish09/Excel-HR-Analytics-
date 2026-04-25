@@ -23,10 +23,18 @@ ______________________
   - The production department drives nearly 80% of overall company attrition.
   - Two managers, Amy Dunn and Kissy Sullivan have the highest team attrition rates at 62% and 55% respectively. Recommend Review for these managers.
 
+<br>
+<br>
 
 | Skill | Applied In |
------------------------
-|    
+| ----- | ---------- |
+| Excel Tables | Formatted table with Freeze panes |
+| Pivot Tables | Cross-tab of terminations by employment |
+| Lookup and Reference | Use of INDEX/VLOOKUP to gather data across spreadsheets |
+| Aggregate Functions | =AVERAGE, /, * to view statistics |
+| Charts | Bar and Column charts showcasing trends | 
+| Conditional Formatting | Attrition-rate color coding by thresholds | 
+| Data Cleaning | Stripping Whitespace from problematic columns |
 <br>
 <br>
 <br>
