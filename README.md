@@ -22,7 +22,11 @@ ______________________
 ## Key Insights
   - The production department drives nearly 80% of overall company attrition.
   - Two managers, Amy Dunn and Kissy Sullivan have the highest team attrition rates at 62% and 55% respectively. Recommend Review for these managers.
-    
+
+
+| Skill | Applied In |
+-----------------------
+|    
 <br>
 <br>
 <br>
